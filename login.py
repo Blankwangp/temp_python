@@ -5,3 +5,5 @@ a = 1
 
 def hello():
 	return '111'
+
+b = 2
