@@ -11,4 +11,8 @@ def detail():
 	return 'detail
 
 b = 2
+<<<<<<< HEAD
 c = 4
+=======
+d = 3
+
