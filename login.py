@@ -11,4 +11,4 @@ def detail():
 	return 'detail
 
 b = 2
-
+c = 4
